@@ -7,7 +7,7 @@ Full stack developer júnior
 Desde criança tive a paixão por programação quando comecei a tentar maneiras de trapacear em jogos online da época e a cada erro eu fica mais entusiasmado para conseguir chegar a algum resultado.
 
 *   🌍  Eu moro em Ribeirão Preto
-*   🖥️  Veja [Meus projetos](http://joao-oqo5ybixn-bleachless.vercel.app/)
+*   🖥️  Veja [Meus projetos](https://joao-nft.vercel.app/)
 *   ✉️  Você pode entrar em contato comigo  [joaoprafael1@gmail.com](mailto:joaoprafael1@gmail.com)
 *   🧠  Estou aprendendo sobre Mongodb
 ### Skills
