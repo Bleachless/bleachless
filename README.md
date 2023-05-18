@@ -1,15 +1,14 @@
-Olá 👋 Meu nome é João Rafael
+# Olá, eu sou João Rafael! 👋
 ============================
 
-Full stack developer júnior
----------------------------
-
-Desde criança tive a paixão por programação quando comecei a tentar maneiras de trapacear em jogos online da época e a cada erro eu fica mais entusiasmado para conseguir chegar a algum resultado.
+## Sobre mim
+Sou um desenvolvedor Full Stack júnior apaixonado por programação. Desde criança, tive a paixão por programação quando comecei a tentar maneiras de trapacear em jogos online da época e a cada erro eu ficava mais entusiasmado para conseguir chegar a algum resultado.
 
 *   🌍  Eu moro em Ribeirão Preto
-*   🖥️  Veja [Meus projetos](https://joao-nft.vercel.app/)
+*   🖥️  Veja [Meus projetos](https://joaodev.me/)
 *   ✉️  Você pode entrar em contato comigo  [joaoprafael1@gmail.com](mailto:joaoprafael1@gmail.com)
 *   🧠  Estou aprendendo sobre Mongodb
+
 ### Skills
 
 <p align="left">
