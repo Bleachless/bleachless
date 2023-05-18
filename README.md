@@ -1,5 +1,4 @@
 # Olá, eu sou João Rafael! 👋
-============================
 
 ## Sobre mim
 Sou um desenvolvedor Full Stack júnior apaixonado por programação. Desde criança, tive a paixão por programação quando comecei a tentar maneiras de trapacear em jogos online da época e a cada erro eu ficava mais entusiasmado para conseguir chegar a algum resultado.
