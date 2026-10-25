@@ -14,11 +14,11 @@ Fora do código, sou vidrado em **academia**. As duas coisas funcionam igual: co
 
 ### 📈 Meu shape de 2026
 
-<a href="https://github.com/Bleachless/shape-dev">
+<a href="https://shape-dev-psi.vercel.app/Bleachless">
   <img src="shape-2026.png" alt="Shape Dev 2026 de @Bleachless: nível Frango Fit, 284 contribuições, 17 dias seguidos, dia favorito domingo" width="100%" />
 </a>
 
-<sub>Gerado pelo <a href="https://github.com/Bleachless/shape-dev">Shape Dev</a> com as contribuições públicas e privadas do ano. Próxima meta: <b>Marombeiro</b> (400 contribuições).</sub>
+<sub>Gerado pelo <a href="https://shape-dev-psi.vercel.app">Shape Dev</a> com as contribuições públicas e privadas do ano. Próxima meta: <b>Marombeiro</b> (400 contribuições). <a href="https://shape-dev-psi.vercel.app">Veja o seu →</a></sub>
 
 ---
 
@@ -27,27 +27,33 @@ Fora do código, sou vidrado em **academia**. As duas coisas funcionam igual: co
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Bleachless/frango-fit"><img src="https://raw.githubusercontent.com/Bleachless/frango-fit/main/docs/banner.png" alt="Frango Fit" width="100%" /></a>
-      <h4><a href="https://github.com/Bleachless/frango-fit">🐔 Frango Fit</a></h4>
+      <a href="https://frango-fit.vercel.app"><img src="https://raw.githubusercontent.com/Bleachless/frango-fit/main/docs/banner.png" alt="Frango Fit" width="100%" /></a>
+      <h4><a href="https://frango-fit.vercel.app">🐔 Frango Fit</a></h4>
       Ficha de treino para usar no meio da série: sugere a próxima carga, detecta recordes, cronometra o descanso e tem um Frango que sobe de nível com você.
       <br /><br />
       <code>Next.js 16</code> <code>zustand</code> <code>PWA</code>
+      <br /><br />
+      <a href="https://frango-fit.vercel.app"><b>▶ Abrir o app</b></a> · <a href="https://github.com/Bleachless/frango-fit">código</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Bleachless/cofrinho"><img src="https://raw.githubusercontent.com/Bleachless/cofrinho/main/docs/banner.png" alt="Cofrinho" width="100%" /></a>
-      <h4><a href="https://github.com/Bleachless/cofrinho">🐷 Cofrinho</a></h4>
+      <a href="https://cofrinho-ten.vercel.app"><img src="https://raw.githubusercontent.com/Bleachless/cofrinho/main/docs/banner.png" alt="Cofrinho" width="100%" /></a>
+      <h4><a href="https://cofrinho-ten.vercel.app">🐷 Cofrinho</a></h4>
       Importa o extrato do banco (OFX ou CSV), categoriza sozinho e mostra para onde foi o dinheiro em gráficos. Tudo fica no navegador.
       <br /><br />
       <code>Next.js 16</code> <code>shadcn/ui</code> <code>Recharts</code>
+      <br /><br />
+      <a href="https://cofrinho-ten.vercel.app"><b>▶ Abrir o app</b></a> · <a href="https://github.com/Bleachless/cofrinho">código</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Bleachless/shape-dev"><img src="https://raw.githubusercontent.com/Bleachless/shape-dev/main/docs/inicio-desktop.png" alt="Shape Dev" width="100%" /></a>
-      <h4><a href="https://github.com/Bleachless/shape-dev">💪 Shape Dev</a></h4>
+      <a href="https://shape-dev-psi.vercel.app"><img src="https://raw.githubusercontent.com/Bleachless/shape-dev/main/docs/inicio-desktop.png" alt="Shape Dev" width="100%" /></a>
+      <h4><a href="https://shape-dev-psi.vercel.app">💪 Shape Dev</a></h4>
       Retrospectiva do ano no GitHub em formato de stories: frequência, sequência, linguagens e o seu nível de shape, com card pronto para postar.
       <br /><br />
       <code>Next.js 16</code> <code>next/og</code> <code>html-to-image</code>
+      <br /><br />
+      <a href="https://shape-dev-psi.vercel.app"><b>▶ Abrir o app</b></a> · <a href="https://github.com/Bleachless/shape-dev">código</a>
     </td>
     <td width="50%" valign="top">
       <h4>🔒 Trabalho interno</h4>
@@ -72,6 +78,7 @@ Fora do código, sou vidrado em **academia**. As duas coisas funcionam igual: co
 
 ### 🤝 Bora conversar
 
+[![Portfólio](https://img.shields.io/badge/Portfólio-treino_noturno-0d0e0c?style=for-the-badge&logo=vercel&logoColor=f3c13a)](https://portifolio-joao-vaz.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Vaz-0d0e0c?style=for-the-badge&logo=linkedin&logoColor=3b7be0)](https://www.linkedin.com/in/jo%C3%A3o-vaz-473889221/)
 [![E-mail](https://img.shields.io/badge/E--mail-joaoprafael1@gmail.com-0d0e0c?style=for-the-badge&logo=gmail&logoColor=e5432f)](mailto:joaoprafael1@gmail.com)
 
