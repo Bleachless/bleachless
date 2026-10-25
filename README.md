@@ -6,29 +6,55 @@ Desenvolvedor **full stack** em Ribeirão Preto. Trabalho com tecnologia no **se
 
 Fora do código, sou vidrado em **academia**. As duas coisas funcionam igual: constância, carga progressiva e nenhum atalho que dure.
 
-- 🏗️ Construindo agora: **[Frango Fit](https://github.com/Bleachless/frango-fit)**, um app de treino com carga progressiva
+- 🏗️ Construindo agora: apps pessoais com cara de academia, todos abertos aqui embaixo
 - ⚙️ No trabalho: painéis internos, automação de rotinas e monitoramento
 - 📍 Ribeirão Preto, SP
 
 ---
 
-### 🏋️ Projeto em destaque
+### 📈 Meu shape de 2026
 
-<a href="https://github.com/Bleachless/frango-fit">
-  <img src="https://raw.githubusercontent.com/Bleachless/frango-fit/main/docs/banner.png" alt="Frango Fit" width="100%" />
+<a href="https://github.com/Bleachless/shape-dev">
+  <img src="shape-2026.png" alt="Shape Dev 2026 de @Bleachless: nível Frango Fit, 284 contribuições, 17 dias seguidos, dia favorito domingo" width="100%" />
 </a>
 
-**[Frango Fit](https://github.com/Bleachless/frango-fit)** é uma ficha de treino feita para usar no meio da série:
+<sub>Gerado pelo <a href="https://github.com/Bleachless/shape-dev">Shape Dev</a> com as contribuições públicas e privadas do ano. Próxima meta: <b>Marombeiro</b> (400 contribuições).</sub>
 
-- sugere a carga da próxima série com dupla progressão;
-- detecta recordes na hora pelo 1RM estimado;
-- cronometra o descanso sozinho, com som 8-bit;
-- mostra a evolução em gráficos;
-- tem um Frango que sobe de nível com o seu treino.
+---
 
-Sem login, funciona offline e instala no celular.
+### 🏋️ Projetos
 
-`Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `zustand` `PWA`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Bleachless/frango-fit"><img src="https://raw.githubusercontent.com/Bleachless/frango-fit/main/docs/banner.png" alt="Frango Fit" width="100%" /></a>
+      <h4><a href="https://github.com/Bleachless/frango-fit">🐔 Frango Fit</a></h4>
+      Ficha de treino para usar no meio da série: sugere a próxima carga, detecta recordes, cronometra o descanso e tem um Frango que sobe de nível com você.
+      <br /><br />
+      <code>Next.js 16</code> <code>zustand</code> <code>PWA</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Bleachless/cofrinho"><img src="https://raw.githubusercontent.com/Bleachless/cofrinho/main/docs/banner.png" alt="Cofrinho" width="100%" /></a>
+      <h4><a href="https://github.com/Bleachless/cofrinho">🐷 Cofrinho</a></h4>
+      Importa o extrato do banco (OFX ou CSV), categoriza sozinho e mostra para onde foi o dinheiro em gráficos. Tudo fica no navegador.
+      <br /><br />
+      <code>Next.js 16</code> <code>shadcn/ui</code> <code>Recharts</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Bleachless/shape-dev"><img src="https://raw.githubusercontent.com/Bleachless/shape-dev/main/docs/inicio-desktop.png" alt="Shape Dev" width="100%" /></a>
+      <h4><a href="https://github.com/Bleachless/shape-dev">💪 Shape Dev</a></h4>
+      Retrospectiva do ano no GitHub em formato de stories: frequência, sequência, linguagens e o seu nível de shape, com card pronto para postar.
+      <br /><br />
+      <code>Next.js 16</code> <code>next/og</code> <code>html-to-image</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔒 Trabalho interno</h4>
+      Painel de monitoramento, painel de dados e robôs de planilha feitos para o dia a dia de uma equipe do setor financeiro. O código é privado, mas a constância aparece no mapa de contribuições.
+    </td>
+  </tr>
+</table>
 
 ---
 
