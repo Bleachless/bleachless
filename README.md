@@ -56,6 +56,26 @@ Fora do código, sou vidrado em **academia**. As duas coisas funcionam igual: co
       <a href="https://shape-dev-psi.vercel.app"><b>▶ Abrir o app</b></a> · <a href="https://github.com/Bleachless/shape-dev">código</a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://racha-pix-phi.vercel.app"><img src="https://raw.githubusercontent.com/Bleachless/racha-pix/main/docs/banner.png" alt="Racha" width="100%" /></a>
+      <h4><a href="https://racha-pix-phi.vercel.app">🧾 Racha</a></h4>
+      Divide a conta do rolê por item ou igual e gera o Pix de cada pessoa. Um link vai pro grupo e cada um paga o próprio QR Code, sem cadastro.
+      <br /><br />
+      <code>Next.js 16</code> <code>BR Code (Pix)</code> <code>zustand</code>
+      <br /><br />
+      <a href="https://racha-pix-phi.vercel.app"><b>▶ Abrir o app</b></a> · <a href="https://github.com/Bleachless/racha-pix">código</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://rende-mais-swart.vercel.app"><img src="https://raw.githubusercontent.com/Bleachless/rende-mais/main/docs/banner.png" alt="Rende Mais" width="100%" /></a>
+      <h4><a href="https://rende-mais-swart.vercel.app">📈 Rende Mais</a></h4>
+      Poupança, CDB, LCI/LCA e Tesouro lado a lado com as taxas de hoje do Banco Central, já sem IR, custódia e inflação.
+      <br /><br />
+      <code>Next.js 16</code> <code>API do Banco Central</code> <code>Recharts</code>
+      <br /><br />
+      <a href="https://rende-mais-swart.vercel.app"><b>▶ Abrir o app</b></a> · <a href="https://github.com/Bleachless/rende-mais">código</a>
+    </td>
+    <td width="50%" valign="top">
       <h4>🔒 Trabalho interno</h4>
       Painel de monitoramento, painel de dados e robôs de planilha feitos para o dia a dia de uma equipe do setor financeiro. O código é privado, mas a constância aparece no mapa de contribuições.
     </td>
